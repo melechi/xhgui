@@ -98,7 +98,7 @@ interface Xhgui_Searcher_Interface
      *
      * @return boolean
      */
-    public function truncate();
+    // public function truncate();
 
     /**
      * Save a value to the collection.
